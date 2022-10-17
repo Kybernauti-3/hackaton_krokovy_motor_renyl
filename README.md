@@ -5,5 +5,6 @@
 Krokový motor
 > Tohle je kometář
 
-- věc 1
-- věc 2
+- otáčelo se to pomalu
+- zvláštně to vrnělo
+- https://www.youngwonks.com/blog/How-to-use-a-stepper-motor-with-the-Raspberry-Pi-Pico
